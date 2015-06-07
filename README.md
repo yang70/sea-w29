@@ -79,3 +79,11 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+What contributed most to your learning?
+Being able to get direct and instant feedback to questions or problems.  Also being able to see examples and know that this is the correct way to do things, rather than doing it your own way and wondering if it is correct.
+
+What was the least helpful to your learning?
+Least helpful for me personally was that we spend most of the class going over things I had already learned by doing the pre-work, and the end of the class when we started going over things that I was learning for the first time it was a bit rushed and we were not able to delve into it as much or ask questions (collaboration and pull requests).  I understand though that the focus of the class was the basics and getting started, so that was expected.
+Would you recommend this workshop to a friend (0-10)?
+8 - I would definitely recommend this to a friend if they are a beginner at UNIX and Git, however if they already have some experience with those things I would tell them it most likely is not necessary.
